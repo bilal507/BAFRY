@@ -1,1 +1,1 @@
-# Codeninjas
+# Codeninjas/Area of a rectangle
